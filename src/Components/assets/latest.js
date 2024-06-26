@@ -1,0 +1,98 @@
+export const latest=[
+    {
+        "": "75",
+        "name": "HP X1000 Wired USB Mouse with 3 Handy Buttons, Fast-Moving Scroll Wheel and Optical Sensor works on most Surfaces, 3 years...",
+        "main_category": "tv, audio & cameras",
+        "sub_category": "All Electronics",
+        "image": "https://m.media-amazon.com/images/I/61KSceiLHwL._AC_UL800_.jpg",
+        "link": "https://www.amazon.in/HP-X1000-Wired-Mouse-Black/dp/B009VCGPSY/ref=sr_1_78?qid=1679133654&s=electronics&sr=1-78",
+        "ratings": "4.3",
+        "no_of_ratings": "55,589",
+        "new_price": "\u20b9349",
+        "old_price": "\u20b9649"
+    },
+    {
+        "": "76",
+        "name": "HP v236w USB 2.0 64GB Pen Drive, Metal",
+        "main_category": "tv, audio & cameras",
+        "sub_category": "All Electronics",
+        "image": "https://m.media-amazon.com/images/I/61xNG4wjOuL._AC_UL800_.jpg",
+        "link": "https://www.amazon.in/HP-v236w-64GB-USB-Drive/dp/B01L8ZNWN2/ref=sr_1_79?qid=1679133654&s=electronics&sr=1-79",
+        "ratings": "4.2",
+        "no_of_ratings": "66,790",
+        "new_price": "\u20b9468",
+        "old_price": "\u20b91,500"
+    },
+    {
+        "": "77",
+        "name": "boAt BassHeads 900 On-Ear Wired Headphones with Mic (White)",
+        "main_category": "tv, audio & cameras",
+        "sub_category": "All Electronics",
+        "image": "https://m.media-amazon.com/images/I/71r6AArbBBL._AC_UL800_.jpg",
+        "link": "https://www.amazon.in/Heads-900-Wired-Headphones-White/dp/B078W65FJ7/ref=sr_1_80?qid=1679133654&s=electronics&sr=1-80",
+        "ratings": "4.2",
+        "no_of_ratings": "92,346",
+        "new_price": "\u20b9599",
+        "old_price": "\u20b92,490"
+    },
+    {
+        "": "78",
+        "name": "Boult Audio Z40 True Wireless in Ear Earbuds with 60H Playtime, Zen\u2122 ENC Mic, Low Latency Gaming, Type-C Fast Charging, Ma...",
+        "main_category": "tv, audio & cameras",
+        "sub_category": "All Electronics",
+        "image": "https://m.media-amazon.com/images/I/61LlQRdDZ2L._AC_UL800_.jpg",
+        "link": "https://www.amazon.in/Boult-Audio-Wireless-Playtime-Bluetooth/dp/B0BQN2RMJF/ref=sr_1_81?qid=1679133654&s=electronics&sr=1-81",
+        "ratings": "3.9",
+        "no_of_ratings": "1,320",
+        "new_price": "\u20b91,499",
+        "old_price": "\u20b94,999"
+    },
+    {
+        "": "79",
+        "name": "SanDisk Cruzer Blade 64GB USB 2.0 Flash Drive",
+        "main_category": "tv, audio & cameras",
+        "sub_category": "All Electronics",
+        "image": "https://m.media-amazon.com/images/I/612spb+L0xL._AC_UL800_.jpg",
+        "link": "https://www.amazon.in/SanDisk-Cruzer-Blade-Flash-Drive/dp/B00BX5FOCK/ref=sr_1_82?qid=1679133654&s=electronics&sr=1-82",
+        "ratings": "4.2",
+        "no_of_ratings": "43,913",
+        "new_price": "\u20b9389",
+        "old_price": "\u20b91,100"
+    },
+    {
+        "": "81",
+        "name": "SanDisk Ultra\u00ae microSDXC\u2122 UHS-I Card, 128GB, 140MB/s R, 10 Y Warranty, for Smartphones",
+        "main_category": "tv, audio & cameras",
+        "sub_category": "All Electronics",
+        "image": "https://m.media-amazon.com/images/I/71jsEFJtRRL._AC_UL800_.jpg",
+        "link": "https://www.amazon.in/SanDisk-Ultra%C2%AE-microSDXCTM-Warranty-Smartphones/dp/B0BDYVC5TD/ref=sr_1_84?qid=1679133654&s=electronics&sr=1-84",
+        "ratings": "4.4",
+        "no_of_ratings": "71,768",
+        "new_price": "\u20b9868",
+        "old_price": "\u20b91,800"
+    },
+    {
+        "": "82",
+        "name": "Redmi 10A (Sea Blue, 4GB RAM, 64GB Storage) | 2 Ghz Octa Core Helio G25 | 5000 mAh Battery | Finger Print Sensor | Upto 5G...",
+        "main_category": "tv, audio & cameras",
+        "sub_category": "All Electronics",
+        "image": "https://m.media-amazon.com/images/I/71WC+Qz1KgL._AC_UL800_.jpg",
+        "link": "https://www.amazon.in/Redmi-Storage-Battery-Finger-Booster/dp/B09XB7DPW1/ref=sr_1_85?qid=1679133654&s=electronics&sr=1-85",
+        "ratings": "4.0",
+        "no_of_ratings": "15,480",
+        "new_price": "\u20b98,599",
+        "old_price": "\u20b911,999"
+    },
+    {
+        "": "83",
+        "name": "OnePlus Nord Buds True Wireless in Ear Earbuds with Mic, 12.4mm Titanium Drivers, Playback:Up to 30hr case, 4-Mic Design +...",
+        "main_category": "tv, audio & cameras",
+        "sub_category": "All Electronics",
+        "image": "https://m.media-amazon.com/images/I/51eIHcTAdeL._AC_UL800_.jpg",
+        "link": "https://www.amazon.in/OnePlus-Wireless-Earbuds-Titanium-Playback/dp/B0B4VV75ZW/ref=sr_1_86?qid=1679133654&s=electronics&sr=1-86",
+        "ratings": "4.2",
+        "no_of_ratings": "23,720",
+        "new_price": "\u20b92,799",
+        "old_price": "\u20b92,999"
+    },
+]
