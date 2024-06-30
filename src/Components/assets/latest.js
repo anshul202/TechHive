@@ -1,6 +1,6 @@
 export const latest=[
     {
-        "": "75",
+        "id": "75",
         "name": "HP X1000 Wired USB Mouse with 3 Handy Buttons, Fast-Moving Scroll Wheel and Optical Sensor works on most Surfaces, 3 years...",
         "main_category": "tv, audio & cameras",
         "sub_category": "All Electronics",
@@ -12,7 +12,7 @@ export const latest=[
         "old_price": "\u20b9649"
     },
     {
-        "": "76",
+        "id": "76",
         "name": "HP v236w USB 2.0 64GB Pen Drive, Metal",
         "main_category": "tv, audio & cameras",
         "sub_category": "All Electronics",
@@ -24,7 +24,7 @@ export const latest=[
         "old_price": "\u20b91,500"
     },
     {
-        "": "77",
+        "id": "77",
         "name": "boAt BassHeads 900 On-Ear Wired Headphones with Mic (White)",
         "main_category": "tv, audio & cameras",
         "sub_category": "All Electronics",
@@ -48,7 +48,7 @@ export const latest=[
         "old_price": "\u20b94,999"
     },
     {
-        "": "79",
+        "id": "79",
         "name": "SanDisk Cruzer Blade 64GB USB 2.0 Flash Drive",
         "main_category": "tv, audio & cameras",
         "sub_category": "All Electronics",
@@ -60,7 +60,7 @@ export const latest=[
         "old_price": "\u20b91,100"
     },
     {
-        "": "81",
+        "id": "81",
         "name": "SanDisk Ultra\u00ae microSDXC\u2122 UHS-I Card, 128GB, 140MB/s R, 10 Y Warranty, for Smartphones",
         "main_category": "tv, audio & cameras",
         "sub_category": "All Electronics",
@@ -72,7 +72,7 @@ export const latest=[
         "old_price": "\u20b91,800"
     },
     {
-        "": "82",
+        "id": "82",
         "name": "Redmi 10A (Sea Blue, 4GB RAM, 64GB Storage) | 2 Ghz Octa Core Helio G25 | 5000 mAh Battery | Finger Print Sensor | Upto 5G...",
         "main_category": "tv, audio & cameras",
         "sub_category": "All Electronics",
@@ -84,7 +84,7 @@ export const latest=[
         "old_price": "\u20b911,999"
     },
     {
-        "": "83",
+        "id": "83",
         "name": "OnePlus Nord Buds True Wireless in Ear Earbuds with Mic, 12.4mm Titanium Drivers, Playback:Up to 30hr case, 4-Mic Design +...",
         "main_category": "tv, audio & cameras",
         "sub_category": "All Electronics",
