@@ -31,4 +31,11 @@ deliver a straightforward and reliable shopping experience.
    ```bash
    npm install
    ```
+3. Screenshots
+
+![Screenshot 2024-10-21 195543](https://github.com/user-attachments/assets/5eb76faf-0c74-4bf2-9a44-45f344ecc099)
+![Screenshot 2024-10-21 195555](https://github.com/user-attachments/assets/d2ea5755-1163-434b-b4a7-b027ebd70960)
+![Screenshot 2024-10-21 195506](https://github.com/user-attachments/assets/e3d06f1b-f8ad-4118-8609-dcf4ff568110)
+![Screenshot 2024-10-21 195447](https://github.com/user-attachments/assets/5ead93b6-c030-44d6-b995-3f6c8b228bc1)
+![Screenshot 2024-10-21 195433](https://github.com/user-attachments/assets/9a7a8472-849c-4b7a-b7bc-788cce6b7752)
 
