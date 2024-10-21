@@ -11,7 +11,7 @@ deliver a straightforward and reliable shopping experience.
 ## Features
 
 - Fully Functional Cart 
-- Admin panel[]
+- Admin panel [https://github.com/anshul202/TechHiveAdmin]
 
 ## Tech Stack
 
